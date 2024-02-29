@@ -1,0 +1,31 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "CSS.png"
+    },
+    {
+        "title": "javaScript",
+        "imageSrc": "javaScript.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "React.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "Java2.png"
+    },
+    {
+        "title": "Data Structure",
+        "imageSrc": "DSA.png"
+    },
+    {
+        "title": "My SQL",
+        "imageSrc": "mysql.png"
+    }
+
+]

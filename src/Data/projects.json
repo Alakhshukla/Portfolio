@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Study-Point",
+        "imageSrc": "StudyPoint.png",
+        "description": "this project is based on UI with responsiveness",
+        "skills": ["html", "css"],
+        "source": "https://github.com/Alakhshukla/StudyPoint"
+        
+    },
+    {
+        "title": "Socoal-Media",
+        "imageSrc": "socialMedia.png",
+        "description": "A social media project where user can post their post",
+        "skills": ["react+vite", "mySql"],
+        "source": "https://github.com/Alakhshukla/Social_media"
+        
+    },{
+        "title": "Some JavaScript Projects",
+        "imageSrc": "ProjectsJs.png",
+        "description": " Minor Projects based on javascript",
+        "skills": ["html", "css", "Javascript"],
+        "source": "https://github.com/Alakhshukla/Js-projects"
+        
+    }
+]
